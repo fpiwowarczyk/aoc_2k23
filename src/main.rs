@@ -1,11 +1,13 @@
-mod day3;
+// mod day3;
+mod day4;
 mod task2;
 
 fn main() {
     // task1::task1();
     // task2::task_2();
     // day3::day3_1();
-    day3::day3_2();
+    // day3::day3_2();
+    day4::day4_2();
 }
 
 mod task1 {
